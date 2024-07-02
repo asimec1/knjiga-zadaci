@@ -11,12 +11,12 @@
 3.6.	Napišite PHP kod koji će stvoriti varijable $ime, $prezime i $godine te im dodijeliti vrijednosti. Zatim stvorite varijablu $osoba koja će kombinirati ove tri varijable u jedan string u formatu "Ime Prezime, Godine: 25". Ako su $godine veće od 18, dodajte tekst " - Odrasla osoba" na kraj stringa. Ispišite vrijednost varijable $osoba.
 
 3.7.	Napišite kod koji će obaviti sljedeće korake:
-  a.	Dodijelite vrijednost 10 varijabli a.
-  b.	Dodijelite varijabli b vrijednost koja je jednaka dvostrukoj vrijednosti varijable a.
-  c.	Dodijelite varijabli c vrijednost koja je jednaka kvadratu varijable b.
-  d.	Dodijelite varijabli d vrijednost koja je jednaka kvadratnom korijenu varijable c.
-  e.	Napravite novi string result koji kombinira sve vrijednosti varijabli a, b, c i d u obliku: "Vrijednosti varijabli su: a = {a}, b = {b}, c = {c}, d = {d}".
-  f.	Ispišite rezultat na ekran. 
+a.	Dodijelite vrijednost 10 varijabli a.
+b.	Dodijelite varijabli b vrijednost koja je jednaka dvostrukoj vrijednosti varijable a.
+c.	Dodijelite varijabli c vrijednost koja je jednaka kvadratu varijable b.
+d.	Dodijelite varijabli d vrijednost koja je jednaka kvadratnom korijenu varijable c.
+e.	Napravite novi string result koji kombinira sve vrijednosti varijabli a, b, c i d u obliku: "Vrijednosti varijabli su: a = {a}, b = {b}, c = {c}, d = {d}".
+f.	Ispišite rezultat na ekran. 
 
 3.8.	Napišite kod koji će obaviti sljedeće korake:
   a.	Dodijelite vrijednost 10 varijabli a.
