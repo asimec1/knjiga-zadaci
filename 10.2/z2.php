@@ -1,0 +1,1 @@
+<p> Pozdrav iz datoteke z2.php! </p>
