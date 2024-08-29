@@ -1,4 +1,18 @@
-<!-- index.html -->
+<!--
+3.	Napravite stranicu koja će prikazivati galeriju slika s mogućnošću otvaranja svake slike u modal prozoru. Stranica će koristiti HTML, CSS i Bootstrap za prikazivanje slika i dizajniranje izgleda stranice, dok će PHP biti korišten za dinamičko generiranje galerije i upravljanje slikama.
+HTML/CSS/Bootstrap dio:
+•	Kreirajte jednostavnu web stranicu s galerijom slika.
+•	Galerija će imati grid layout gdje će se slike prikazivati u redovima i stupcima.
+•	Koristite Bootstrap za stilizaciju galerije i modal prozora.
+PHP dio:
+•	Koristite objektno orijentirani pristup za upravljanje slikama.
+•	Kreirajte klase, sučelja i osobine kako je navedeno.
+•	Kreirajte PHP datoteku gallery.php koja će sadržavati klase za upravljanje slikama.
+•	Koristite sučelje ImageInterface za definiranje metode getImagePath.
+•	Klasa Image će implementirati ImageInterface i imati osobine kao što su naziv slike, putanja slike, itd.
+•	Klasa Gallery će upravljati kolekcijom objekata Image i generirati HTML za slike
+Postavite slike u direktorij images. Uvjerite se da su putanje slika pravilno postavljene. Prilagodite CSS stilizaciju prema potrebi.
+-->
 <!DOCTYPE html>
 <html lang="hr">
 <head>
