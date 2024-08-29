@@ -1,4 +1,20 @@
-<!-- index.html -->
+<!-- 
+4.	Napravite stranicu koja će prikazivati popis knjiga s mogućnošću otvaranja detaljnih informacija o svakoj knjizi u modal prozoru. Stranica će koristiti HTML, CSS i Bootstrap za prikazivanje popisa i dizajniranje izgleda stranice, dok će PHP biti korišten za dinamičko generiranje popisa knjiga i upravljanje podacima o knjigama.
+HTML/CSS/Bootstrap dio:
+•	Kreirajte jednostavnu web stranicu s popisom knjiga.
+•	Popis će imati grid layout gdje će se knjige prikazivati u karticama (cards).
+•	Koristite Bootstrap za stilizaciju popisa i modal prozora.
+PHP dio:
+•	Koristite objektno orijentirani pristup za upravljanje podacima o knjigama.
+•	Kreirajte klase, sučelja i osobine kako je navedeno.
+•	Kreirajte PHP datoteku books.php koja će sadržavati klase za upravljanje knjigama.
+•	Koristite sučelje BookInterface za definiranje metode getDetails.
+•	Klasa Book će implementirati BookInterface i imati osobine kao što su naziv knjige, autor, opis, itd.
+•	Klasa Library će upravljati kolekcijom objekata Book i generirati HTML za popis knjiga.
+Kreirajte dodatne knjige u Library klasi kako biste prikazali različite knjige.
+Stilizirajte kartice i modal prozor prema potrebi koristeći Bootstrap komponente.
+
+-->
 <!DOCTYPE html>
 <html lang="hr">
 <head>
